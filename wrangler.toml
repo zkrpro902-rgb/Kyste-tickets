@@ -1,0 +1,19 @@
+name = "kyste-tickets-api"
+main = "index.js"
+compatibility_date = "2024-01-01"
+
+# KV — uniquement pour les sessions Discord (très léger)
+[[kv_namespaces]]
+binding = "KYSTE_KV"
+id      = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+
+# Variables en clair
+[vars]
+DISCORD_GUILD_ID = "TON_GUILD_ID"
+DASHBOARD_URL    = "https://TON_SITE.netlify.app"
+API_URL          = "https://kyste-tickets-api.onrender.com"
+
+# Secrets (wrangler secret put NOM  ou dashboard CF)
+# DISCORD_CLIENT_ID
+# DISCORD_CLIENT_SECRET
+# DISCORD_BOT_TOKEN
