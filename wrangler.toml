@@ -1,5 +1,5 @@
 name = "kyste-tickets-api"
-main = "index.js"
+main = "index.js" 
 compatibility_date = "2024-01-01"
 
 # KV — uniquement pour les sessions Discord (très léger)
