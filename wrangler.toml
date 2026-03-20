@@ -1,4 +1,4 @@
-name = "kyste-tickets-api"
+name = "kyste-tickets"
 main = "index.js" 
 compatibility_date = "2024-01-01"
 
