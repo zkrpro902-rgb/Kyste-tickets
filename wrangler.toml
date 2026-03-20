@@ -9,7 +9,7 @@ id      = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 
 # Variables en clair
 [vars]
-DISCORD_GUILD_ID = "TON_GUILD_ID"
+DISCORD_GUILD_ID = "1463607904069357699"
 DASHBOARD_URL    = "https://kystedashboard.netlify.app/"
 API_URL          = "https://kyste-ticket-api.onrender.com"
 
