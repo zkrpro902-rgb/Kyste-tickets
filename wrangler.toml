@@ -5,7 +5,7 @@ compatibility_date = "2024-01-01"
 # KV — uniquement pour les sessions Discord (très léger)
 [[kv_namespaces]]
 binding = "KYSTE_KV"
-id      = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
+id      = "96e078c10620442dbb59e5ec46da87f4"
 
 # Variables en clair
 [vars]
