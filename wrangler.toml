@@ -10,7 +10,7 @@ id      = "XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX"
 # Variables en clair
 [vars]
 DISCORD_GUILD_ID = "TON_GUILD_ID"
-DASHBOARD_URL    = "https://TON_SITE.netlify.app"
+DASHBOARD_URL    = "https://kystedashboard.netlify.app/"
 API_URL          = "https://kyste-ticket-api.onrender.com"
 
 # Secrets (wrangler secret put NOM  ou dashboard CF)
